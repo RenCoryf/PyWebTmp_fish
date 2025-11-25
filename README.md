@@ -8,6 +8,6 @@ To set PyWebTmp up run **fish start.fish**
 This script copies templates to .dev_utils directory at home/user/
 and copies setup.fish to ~/.config/fish/functions/
 
-### _Warnings_
+## _Warnings_
 I consider you already have fish as you shell.
 If not, run pacman -S fish or alternatives and set fish up
